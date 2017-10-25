@@ -1,0 +1,63 @@
+BODY {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 144%
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 144%
+}
+TH {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 144%
+}
+BODY {
+	BACKGROUND-COLOR: #ffffff
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline}
+A:active {
+	TEXT-DECORATION: none
+}
+.STYLE29 {
+	COLOR: #000000
+}
+
+.left1 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #C42600;
+	padding-top: 3px;
+}
+.about1 {
+	font-size: 12px;
+	line-height: 25px;
+	color: #333333;
+}
+
+.txt {font-size: 9pt;color: #494949;text-decoration: none;line-height: 20px;text-align:left;}
+.txt_01 {font-size: 8pt;color: #949494;text-decoration: none;text-align:left;}
+.txt_02 {font-size: 8pt;color: #FFB50C;text-decoration: underline;text-align:left;}
+.txt_03 {font-size: 8pt;color: #ff790d;text-align:left;text-decoration: none; font-weight:bold}
+.txt_title {font-size: 11pt;color: #494949;text-decoration: none;line-height: 20px;text-align:center; font-weight:bold}
+
+
+
+#productlist{float:left;margin-top:10px;margin-left:20px;width:230px; display:inline} 
+#applist{float:left;margin-top:30px;margin-left:20px;width:160px; display:inline} 
+
+
+
+#indexproductlist{float:left;margin-top:10px;margin-left:10px;width:140px; display:inline} 
+
+
+/*图片轮播*/
+#advsheadlb {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#advsheadlb .advsheadlbpic {
+	BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; DISPLAY: none; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+/*图片轮播*/
